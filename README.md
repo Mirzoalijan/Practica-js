@@ -280,4 +280,4 @@ function removeABC(str) {
     console.log(removeABC('abcdefg')); 
     console.log(removeABC('xyz')); 
     console.log(removeABC('abcabcabc'));
-```
+```"# Practica-js" 
